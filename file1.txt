@@ -3,3 +3,5 @@ Second line
 Third line
 Forth line
 Changes for branch master
+Changes for branch A
+
